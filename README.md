@@ -1,4 +1,4 @@
-# 💡 Konsep Pemrograman Berorientasi Objek - Pertemuan Ketiga
+# 💡 Konsep Pemrograman Berorientasi Objek - Pertemuan Pertama
 
 **Topik Utama:** Konsep OOP - *Extends*, *Set*, dan *Get*
 
